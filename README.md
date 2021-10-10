@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunther19
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Add Detection
+- 💞️ I’m looking to collaborate on add detection
 - 📫 How to reach me ...
 
 <!---
